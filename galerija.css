@@ -1,0 +1,62 @@
+#sve{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	justify-content: space-around;
+}
+#burek img{
+	height: 500px;
+	width: 500px;
+}
+#pasta img{
+	height: 500px;
+	width: 500px;
+}
+#pizza img{
+	height: 500px;
+	width: 500px;
+} 
+#stake img{
+	height: 500px;
+	width: 500px;
+}
+#lobster img{
+	height: 500px;
+	width: 500px;
+}
+#sufle img{
+	height: 500px;
+	width: 500px;
+}
+#burek, #pasta, #pizza, #stake, #lobster, #sufle{
+	padding: 50px;
+	font-size: 14pt;
+}
+h1, h3{
+	text-align: center;
+	padding: 30px;
+}
+#naslov{
+	border: solid 1px;
+}
+#dole a{
+	text-decoration: none;
+	color: black;
+}
+#dole{
+	font-size: 20pt;
+	padding: 30px;
+	text-align: center;
+}
+body{
+	background-color: #b2b2b2;
+}
+#napocetnu{
+	font-size: 20pt;
+	padding: 10px;
+	padding-left: 50px;
+}
+#napocetnu a{
+	text-decoration: none;
+	color: black;
+}
